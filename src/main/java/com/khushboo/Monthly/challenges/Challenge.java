@@ -11,7 +11,7 @@ public class Challenge {
         this.description = description;
     }
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
@@ -31,7 +31,7 @@ public class Challenge {
         this.month = month;
     }
 
-    public void setId(long id) {
+    public void setId(Long id) {
         this.id = id;
     }
 }
